@@ -1,7 +1,13 @@
 
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Mutiat Adepoju - Software Engineer, Cloud and DevOps" />
+  <img
+    src="./assets/banner.png"
+    alt="Mutiat Adepoju - Software Engineer, Cloud and DevOps"
+    width="100%"
+  />
 </p>
+
+# Hi, I'm Mutiat Adepoju
 
 <h1 align="center">Hi, I'm Mutiat Adepoju 👋</h1>
 
